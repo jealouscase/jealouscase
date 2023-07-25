@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jealouscase
-- 👀 I’m interested in Full-stack Web applications, Software development, Web3, cybersecurity, and entrepreneurship
-- 💪 I'm proficient in Python and C++
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Linux
-- 🚧 I’m building ??? (Coming Soon)
+- 👋 Hi, I’m @jealouscase.
+- 👀 I’m interested in Full-stack Web applications, Software development, Web3, cybersecurity, and entrepreneurship.
+- 💪 I'm proficient in C++, Python, Javascript, HTML, and CSS.
+- 🌱 I’m currently learning Firebase.
+- 🚧 I’m building ??? (Coming Soon).
 - 📫 You can reach me here, on Github, Twitter, or LinkedIn.
 
 <!---
