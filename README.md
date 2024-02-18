@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jealouscase.
-- 👀 I’m interested in Full-stack Web applications, Software development, Web3, cybersecurity, and entrepreneurship.
+- 👀 I’m interested in all things computer science.
 - 💪 I'm proficient in C++, Python, Javascript, HTML, and CSS.
 - 🌱 I’m currently learning Next.js.
 - 🚧 I’m building ??? (Coming Soon).
